@@ -105,6 +105,8 @@ Spinal degeneration refers to the breakdown of the spine's structural integrity,
 - Add links to relevant studies and previous work in the field of medical image classification.
 - Cite sources for datasets and any external tools or libraries used.
 
+- Donald Corenman, MD, DC - [How to Read Spine X-rays, Mris and CT Scans](https://www.youtube.com/watch?v=VJHP0NMjqsU&list=PL75C785B15FFAB14E&pp=iAQB)
+
 ---
 
 ## Conclusion
